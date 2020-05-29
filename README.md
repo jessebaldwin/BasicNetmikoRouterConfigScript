@@ -1,7 +1,7 @@
 # BasicNetmikoRouterConfigScript
 This scripts adds a new loopback interface to a Cisco IOS router
 
-Here are the router and computer configurations used this script
+Here are the router and computer configurations used for this script
 
 ## Bringing Router back to default configuration 
 * Router> enable
